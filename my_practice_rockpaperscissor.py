@@ -26,4 +26,6 @@ while me == False:
         print("Check Spelling!")
         
     me = False
-    computer = game_contents[randint(0,2)]
+    opponent = game_contents[randint(0,2)]
+
+    
